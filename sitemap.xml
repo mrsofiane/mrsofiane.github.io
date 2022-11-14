@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mrsofiane.me/about/</loc>
+    <loc>https://mrsofiane.github.io/about/</loc>
   </url><url>
-    <loc>https://mrsofiane.me/categories/</loc>
+    <loc>https://mrsofiane.github.io/categories/</loc>
   </url><url>
-    <loc>https://mrsofiane.me/</loc>
+    <loc>https://mrsofiane.github.io/</loc>
   </url><url>
-    <loc>https://mrsofiane.me/search/</loc>
+    <loc>https://mrsofiane.github.io/search/</loc>
   </url><url>
-    <loc>https://mrsofiane.me/tags/</loc>
+    <loc>https://mrsofiane.github.io/tags/</loc>
   </url>
 </urlset>
