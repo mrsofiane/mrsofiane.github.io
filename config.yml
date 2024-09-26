@@ -73,7 +73,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/mrr_sofiane"
+      url: "https://x.com/mrrsofiane"
     - name: github
       url: "https://github.com/mrsofiane"
     - name: linkedin
@@ -91,7 +91,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
 
   # for search
   # https://fusejs.io/api/options.html
